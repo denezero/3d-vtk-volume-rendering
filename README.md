@@ -80,7 +80,7 @@ Interact with the 3D scene using your mouse (Left-click to rotate, Scroll to zoo
 
 This project is actively maintained for educational purposes in computer graphics, biometrics, and healthcare technology. We welcome contributions from software engineers and medical professionals!
 
-If you'd like to improve the shading algorithms (`ShadeOn`), optimize performance, or add UI elements, please read our [Contribution Guidelines](CONTRIBUTING) before submitting a Pull Request.
+If you'd like to improve the shading algorithms (`ShadeOn`), optimize performance, or add UI elements, please read our [Contribution Guidelines](CONTRIBUTING.md) before submitting a Pull Request.
 
 ## License
 
