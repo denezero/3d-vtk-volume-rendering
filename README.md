@@ -64,15 +64,15 @@ Interact with the 3D scene using your mouse (Left-click to rotate, Scroll to zoo
 
 - **[ 1 ] Bone Mode**: Filters out air and soft tissues, rendering only the skeletal structure with maximum opacity.
   
-  ![[gif/Bone Mode Preview.gif]]
+  ![[gif/Bone_Mode_Preview.gif]]
 
 - **[ 2 ] Soft Tissue Mode**: Hides the internal skeletal structure, highlighting the patient's epidermis and facial muscles.
   
-  ![[gif/Soft Tissue Preview.gif]]
+  ![[gif/Soft_Tissue_Preview.gif]]
 
 - **[ 3 ] X-Ray (Translucent) Mode**: Overlays views by assigning 15% opacity to the skin, revealing the solid bones inside.
   
-  ![[gif/X-Ray Mode Preview.gif]]
+  ![[gif/X-Ray_Mode_Preview.gif]]
 
 ## Support & Documentation
 
