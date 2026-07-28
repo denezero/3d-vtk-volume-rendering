@@ -74,21 +74,14 @@ Interact with the 3D scene using your mouse (Left-click to rotate, Scroll to zoo
   
   ![Bone Mode Preview](gif/X-Ray_Mode_Preview.gif)
 
-## Support & Documentation
-
-To keep this README scannable, detailed technical explanations have been moved to separate documents:
-
-- For in-depth details on the VTK pipeline, scalar ranges, and transfer function mathematics, see our [API Documentation](https://www.google.com/search?q=docs/API.md&authuser=1).
-    
-- If you encounter visual artifacts (e.g., _Woodgrain artifacts_) or DICOM reading errors, check our [Troubleshooting Wiki](https://www.google.com/search?q=wiki/Troubleshooting&authuser=1) or [open an issue](https://www.google.com/search?q=../../issues&authuser=1).
     
 
 ## Contributing & Maintenance
 
 This project is actively maintained for educational purposes in computer graphics, biometrics, and healthcare technology. We welcome contributions from software engineers and medical professionals!
 
-If you'd like to improve the shading algorithms (`ShadeOn`), optimize performance, or add UI elements, please read our [Contribution Guidelines](https://www.google.com/search?q=docs/CONTRIBUTING.md&authuser=1) before submitting a Pull Request.
+If you'd like to improve the shading algorithms (`ShadeOn`), optimize performance, or add UI elements, please read our [Contribution Guidelines](CONTRIBUTING) before submitting a Pull Request.
 
 ## License
 
-This project is open-source and licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE&authuser=1) file for details.
+This project is open-source and licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
